@@ -5,7 +5,7 @@ MVC ini dibuat oleh AM
 
 Silahkan digunakan dengan gratis, mohon jagan hapus creditnya
 
-=======================================================================================================
+===========================================================================
 
 spesifikasi:
 
@@ -18,7 +18,7 @@ spesifikasi:
 *untuk versi php dibawah 5.6 belum dicoba, dan kemungkinan tidak bekerja karena belum support PHP Berorientasi Object
 
 
-========================================================================================================
+===========================================================================
 
 point penting:
 
