@@ -37,6 +37,8 @@ point penting:
 
 *untuk keterangan lengkap tentang script atau DOCUMENTATION bisa dilihat di directori : app/documentation
 
-*tentang login: -disini saya menggunakan controller Home untuk menghandle login
+*tentang login: 
 
-	        -pembuatan session berada di Home controller pada method login
+-disini saya menggunakan controller Home untuk menghandle login
+
+-pembuatan session berada di Home controller pada method login
