@@ -24,7 +24,7 @@ point penting:
 
 *setting database dan basic url ada di file config directori : app/config/config.php
 
-*aturan memberi nama yaitu <a href =<?=BASEURL?>/nama controler/nama methode>
+*aturan memberi nama yaitu <a href =<?=BASEURL?>/nama controler/nama methode>, lebih tepatnya adalah objectnya agar lebih mudah dipahami saya gunakan url/nama controler/nama methode
 
 	misal <a href =<?=BASEURL?>/Home/about>
 	
