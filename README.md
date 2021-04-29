@@ -3,7 +3,8 @@ master template php berorientasi object buatan sendiri
 
 MVC ini dibuat oleh AM
 
-Silahkan digunakan dengan gratis, mohon jagan hapus creditnya
+Silahkan digunakan dengan gratis, mohon jagan hapus creditnya(readme.txt, maupun readme.md)
+https://github.com/adnimi31/
 
 ===========================================================================
 
